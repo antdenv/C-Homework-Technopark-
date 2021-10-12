@@ -1,0 +1,5 @@
+ISO standard International_Standartization_Organization 1 14 06 1985 13 05 1990
+IEC comission International_Electrotechnical_Comission 1 10 02 1906 15 12 1910
+ITU union International_Telecommunication_Union 0 12 02 1940 15 03 1950
+ASTM test American_Society_for_Testing_and_Materials 0 07 12 1990 16 03 1995
+ICC code International_Code_Council 1 17 02 2000 01 12 2005
